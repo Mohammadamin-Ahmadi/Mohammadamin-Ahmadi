@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>
+🔭 I’m currently working on<br>🌱 I’m currently learning<br>
 
 
 ## 🌐 Socials:
@@ -15,6 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohammadamin-Ahmadi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
