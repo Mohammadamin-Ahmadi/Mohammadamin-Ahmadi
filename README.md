@@ -65,25 +65,7 @@
 ### 🔥 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadamin-ahmadi&theme=react-dark&hide_border=true&area=true&color=00C8FF&line=00C8FF&point=00C8FF)
 
-### 📈 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadamin-ahmadi&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadamin-ahmadi&layout=compact&theme=tokyonight&hide_border=true" height="160">
-</p>
 
-### 🔥 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammadamin-ahmadi&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohammadamin-ahmadi/mohammadamin-ahmadi/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 🌐 Contact Me
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00C8FF)](https://www.instagram.com/M._.amin1384)
