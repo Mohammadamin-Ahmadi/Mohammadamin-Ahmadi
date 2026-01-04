@@ -1,6 +1,6 @@
 <!-- LOGO -->
 <p align="center">
-  <img src="logo.png" width="180" />
+  <img src="logo1.png" width="180" />
 </p>
 
 <!-- BANNER -->
