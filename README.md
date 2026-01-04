@@ -27,15 +27,15 @@
 
 ## 🧠 Skill Levels
 
-| Skill        | Level |
-|--------------|-------|
-| Photoshop    | ████████████████████░░ 90% |
-| MikroTik     | ████████████░░░░░░░░░░ 68% |
-| VoIP / Issabel | █████████████████░░░░ 85% |
-| C#           | ███████████░░░░░░░░░░░ 60% |
-| Python       | ████████████░░░░░░░░░░ 65% |
-| Flutter      | ██████████░░░░░░░░░░░░ 55% |
-| Networking   | ███████████████░░░░░░░ 75% |
+| Skill           | Level |
+|-----------------|-------|
+| Photoshop       | ████████████████████░░ 90% |
+| MikroTik        | ████████████░░░░░░░░░░ 68% |
+| VoIP / Issabel  | █████████████████░░░░ 85% |
+| C#              | ███████████░░░░░░░░░░░ 60% |
+| Python          | ████████████░░░░░░░░░░ 65% |
+| Flutter         | ██████████░░░░░░░░░░░░ 55% |
+| Networking      | ███████████████░░░░░░░ 75% |
 
 ---
 
@@ -63,24 +63,24 @@
 ## 📊 GitHub Analytics
 
 ### 🔥 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammadamin-Ahmadi&theme=react-dark&hide_border=true&color=00C8FF&line=00C8FF&point=00C8FF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadamin-ahmadi&theme=react-dark&hide_border=true&area=true&color=00C8FF&line=00C8FF&point=00C8FF)
 
 ### 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammadamin-Ahmadi&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00C8FF&text_color=00C8FF" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadamin-Ahmadi&layout=compact&theme=tokyonight&hide_border=true&text_color=00C8FF" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadamin-ahmadi&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadamin-ahmadi&layout=compact&theme=tokyonight&hide_border=true" height="160">
 </p>
 
 ### 🔥 Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohammadamin-Ahmadi&theme=tokyonight&hide_border=true&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF" />
+  <img src="https://streak-stats.demolab.com?user=mohammadamin-ahmadi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohammadamin-Ahmadi/Mohammadamin-Ahmadi/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mohammadamin-ahmadi/mohammadamin-ahmadi/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -94,4 +94,4 @@
 
 ---
 
-<h3 align="center" style="color:#00C8FF;">🖤 Thanks for visiting my profile 🖤</h3>
+<h3 align="center" style="color:#00C8FF;"> Thanks for visiting my profile </h3>
