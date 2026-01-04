@@ -22,8 +22,6 @@
 - 🎨 Professional **Photoshop** designer
 - 🌐 Skilled in **Cisco Packet Tracer**, **MikroTik**, Firewall & Mangle
 - ☎️ Experienced in **VoIP**, SIP, and **Issabel Server**
-- 🖤 عاشق تم دارک و طراحی‌های مینیمال
-
 ---
 
 ## 🧰 Tech Stack
@@ -73,7 +71,7 @@
 ---
 
 ## 🌐 Contact Me
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00C8FF)](https://www.instagram.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00C8FF)](https://www.instagram.com/M._.amin1384)
 [![Freelancer](https://img.shields.io/badge/Freelancer-000000?style=for-the-badge&logo=freelancer&logoColor=00C8FF)](https://www.freelancer.com/u/yourprofile)
 
 📧 Email: **mhmdamymahmdy123@gmail.com**  
