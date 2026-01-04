@@ -1,11 +1,11 @@
 <!-- LOGO -->
 <p align="center">
-  <img src="YOUR_LOGO_PATH" width="180" />
+  <img src="logo.png" width="180" />
 </p>
 
 <!-- BANNER -->
 <p align="center">
-  <img src="YOUR_BANNER_PATH" />
+  <img src="banner.png" />
 </p>
 
 <h1 align="center" style="color:white;">✨ Mohammadamin Ahmadi ✨</h1>
@@ -22,6 +22,21 @@
 - 🎨 Professional **Photoshop** designer
 - 🌐 Skilled in **Cisco Packet Tracer**, **MikroTik**, Firewall & Mangle
 - ☎️ Experienced in **VoIP**, SIP, and **Issabel Server**
+
+---
+
+## 🧠 Skill Levels
+
+| Skill        | Level |
+|--------------|-------|
+| Photoshop    | ████████████████████░░ 90% |
+| MikroTik     | ████████████░░░░░░░░░░ 68% |
+| VoIP / Issabel | █████████████████░░░░ 85% |
+| C#           | ███████████░░░░░░░░░░░ 60% |
+| Python       | ████████████░░░░░░░░░░ 65% |
+| Flutter      | ██████████░░░░░░░░░░░░ 55% |
+| Networking   | ███████████████░░░░░░░ 75% |
+
 ---
 
 ## 🧰 Tech Stack
@@ -58,14 +73,14 @@
 
 ### 🔥 Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadamin-Ahmadi&theme=tokyonight&hide_border=true&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF" />
+  <img src="https://streak-stats.demolab.com?user=Mohammadamin-Ahmadi&theme=tokyonight&hide_border=true&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF" />
 </p>
 
 ---
 
 ## 🐍 Snake Animation
 <p align="center">
-  <img src="https://github.com/Mohammadamin-Ahmadi/Mohammadamin-Ahmadi/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Mohammadamin-Ahmadi/Mohammadamin-Ahmadi/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
