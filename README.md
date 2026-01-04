@@ -1,49 +1,84 @@
-<h1 align="center">سلام! من محمدامین احمدی هستم 👋</h1>
-<h3 align="center">🎓 دانشجوی علوم کامپیوتر | 💻 توسعه‌دهنده چندمهارته | 🌐 علاقه‌مند به شبکه و ویپ</h3>
+<!-- LOGO -->
+<p align="center">
+  <img src="YOUR_LOGO_PATH" width="180" />
+</p>
+
+<!-- BANNER -->
+<p align="center">
+  <img src="YOUR_BANNER_PATH" />
+</p>
+
+<h1 align="center" style="color:white;">✨ Mohammadamin Ahmadi ✨</h1>
+<h3 align="center" style="color:white;">💻 Developer | 🎨 Designer | 🌐 Network & VoIP Specialist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C8FF&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+C%23+Programmer;Flutter+Mobile+Developer;Network+%26+MikroTik+Engineer;VoIP+%26+Issabel+Specialist;Graphic+Designer+%7C+Photoshop" />
+</p>
 
 ---
 
-### 🔥 درباره من
-- 🎯 در حال یادگیری و توسعه پروژه‌های برنامه‌نویسی با C#، Python و Flutter
-- 🖌️ مسلط به طراحی گرافیکی با Adobe Photoshop
-- 🌐 متخصص در شبکه‌های کامپیوتری با تجربه در Cisco Packet Tracer و MikroTik
-- 📞 آشنا با سیستم‌های تلفن ویپ و راه‌اندازی سرور Issabel
+## 🧑‍💻 About Me
+- 🔥 Developer with experience in **C#**, **Python**, and **Flutter**
+- 🎨 Professional **Photoshop** designer
+- 🌐 Skilled in **Cisco Packet Tracer**, **MikroTik**, Firewall & Mangle
+- ☎️ Experienced in **VoIP**, SIP, and **Issabel Server**
+- 🖤 عاشق تم دارک و طراحی‌های مینیمال
 
 ---
 
-### 🧰 مهارت‌ها و تکنولوژی‌ها
+## 🧰 Tech Stack
 
-#### 💻 زبان‌های برنامه‌نویسی
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+### 💻 Programming
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=00C8FF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00C8FF)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00C8FF)
 
-#### 🎨 طراحی گرافیک
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+### 🎨 Graphic Design
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=00C8FF)
 
-#### 🌐 شبکه و ویپ
-![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1D4F91?style=flat&logo=cisco&logoColor=white)
-![MikroTik](https://img.shields.io/badge/-MikroTik-D52E3F?style=flat&logoColor=white)
-![Issabel](https://img.shields.io/badge/-Issabel-5C2D91?style=flat&logoColor=white)
+### 🌐 Network & VoIP
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-000000?style=for-the-badge&logo=cisco&logoColor=00C8FF)
+![MikroTik](https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logoColor=00C8FF)
+![Issabel](https://img.shields.io/badge/Issabel-000000?style=for-the-badge&logoColor=00C8FF)
 
-#### 🛠 ابزارها
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-### 📊 آمار GitHub من
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammadamin-Ahmadi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadamin-Ahmadi&layout=compact&theme=tokyonight)
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00C8FF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00C8FF)
 
 ---
 
-### 🌐 ارتباط با من
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/M._.amin1384)
-[![Freelancer](https://img.shields.io/badge/-Freelancer-29B2FE?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/yourprofile)
-📧 ایمیل: mhmdamymahmdy123@gmail.com  
-📱 تلفن: +989397672152
+## 📊 GitHub Analytics
+
+### 🔥 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammadamin-Ahmadi&theme=react-dark&hide_border=true&color=00C8FF&line=00C8FF&point=00C8FF)
+
+### 📈 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammadamin-Ahmadi&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00C8FF&text_color=00C8FF" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadamin-Ahmadi&layout=compact&theme=tokyonight&hide_border=true&text_color=00C8FF" height="160">
+</p>
+
+### 🔥 Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadamin-Ahmadi&theme=tokyonight&hide_border=true&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF" />
+</p>
 
 ---
 
+## 🐍 Snake Animation
+<p align="center">
+  <img src="https://github.com/Mohammadamin-Ahmadi/Mohammadamin-Ahmadi/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Contact Me
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00C8FF)](https://www.instagram.com/yourusername)
+[![Freelancer](https://img.shields.io/badge/Freelancer-000000?style=for-the-badge&logo=freelancer&logoColor=00C8FF)](https://www.freelancer.com/u/yourprofile)
+
+📧 Email: **mhmdamymahmdy123@gmail.com**  
+📱 Phone: **+989397672152**
+
+---
+
+<h3 align="center" style="color:#00C8FF;">🖤 Thanks for visiting my profile 🖤</h3>
