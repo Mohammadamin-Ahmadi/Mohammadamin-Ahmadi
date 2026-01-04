@@ -5,7 +5,7 @@
 
 <!-- BANNER -->
 <p align="center">
-  <img src="banner.png" />
+  <!-- <img src="banner.png" /> -->
 </p>
 
 <h1 align="center" style="color:white;">✨ Mohammadamin Ahmadi ✨</h1>
