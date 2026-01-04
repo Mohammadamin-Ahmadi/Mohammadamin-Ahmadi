@@ -1,34 +1,49 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/M._.amin1384) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mohammadamin-Ahmadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammadamin-Ahmadi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadamin-Ahmadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">سلام! من محمدامین احمدی هستم 👋</h1>
+<h3 align="center">🎓 دانشجوی علوم کامپیوتر | 💻 توسعه‌دهنده چندمهارته | 🌐 علاقه‌مند به شبکه و ویپ</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mohammadamin-Ahmadi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+### 🔥 درباره من
+- 🎯 در حال یادگیری و توسعه پروژه‌های برنامه‌نویسی با C#، Python و Flutter
+- 🖌️ مسلط به طراحی گرافیکی با Adobe Photoshop
+- 🌐 متخصص در شبکه‌های کامپیوتری با تجربه در Cisco Packet Tracer و MikroTik
+- 📞 آشنا با سیستم‌های تلفن ویپ و راه‌اندازی سرور Issabel
 
-<!--
-**Mohammadamin-Ahmadi/Mohammadamin-Ahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧰 مهارت‌ها و تکنولوژی‌ها
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 زبان‌های برنامه‌نویسی
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+#### 🎨 طراحی گرافیک
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+
+#### 🌐 شبکه و ویپ
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1D4F91?style=flat&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/-MikroTik-D52E3F?style=flat&logoColor=white)
+![Issabel](https://img.shields.io/badge/-Issabel-5C2D91?style=flat&logoColor=white)
+
+#### 🛠 ابزارها
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📊 آمار GitHub من
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammadamin-Ahmadi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadamin-Ahmadi&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 ارتباط با من
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
+[![Freelancer](https://img.shields.io/badge/-Freelancer-29B2FE?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/yourprofile)
+📧 ایمیل: mhmdamymahmdy123@gmail.com  
+📱 تلفن: +989397672152
+
+---
+
